@@ -1,6 +1,6 @@
 # [NLLG](https://nl2g.github.io/) Arxiv Reports
 
-This repository contains the code of the ''quaterly'' NLLG Arxiv Reports. Each report's code and data is stored in a separate folder.
+This repository contains the code of the ''quaterly'' NLLG Arxiv Reports. Each report's code and data is stored in its respective folder.
 
 ## Citations
 
@@ -14,7 +14,8 @@ This repository contains the code of the ''quaterly'' NLLG Arxiv Reports. Each r
       archivePrefix={arXiv},
       primaryClass={cs.CY},
       url={https://arxiv.org/abs/2308.04889}, 
-}```
+}
+```
 
 #### September 2023
 ```bibtex
