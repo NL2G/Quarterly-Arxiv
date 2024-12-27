@@ -39,6 +39,7 @@ This repository contains the code of the ''quarterly'' NLLG Arxiv Reports. Each 
       doi = {http://dx.doi.org/10.2139/ssrn.4896347}
       url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4896347} 
 }
+```
 
 #### September 2024
 ```bibtex
