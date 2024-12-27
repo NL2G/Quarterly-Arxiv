@@ -1,0 +1,41 @@
+ranking	title	primary_category	entry_id	week	citationCount	stable_zscore	compareToList9/23	compareToList7/29	check	ranking923	ranking623
+1	GPT-4 Technical Report	cs.CL	http://arxiv.org/abs/2303.08774v4	23/03/12-23/03/18	2654	34.80146446	-	$\uparrow$1	1	1	2
+2	Llama 2: Open Foundation and Fine-Tuned Chat Models	cs.CL	http://arxiv.org/abs/2307.09288v2	23/07/16-23/07/22	2260	34.24574074	-			2	False
+3	LLaMA: Open and Efficient Foundation Language Models	cs.CL	http://arxiv.org/abs/2302.13971v1	23/02/26-23/03/04	3870	33.45662538	-	$\downarrow$1	-1	3	1
+4	Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena	cs.CL	http://arxiv.org/abs/2306.05685v4	23/06/04-23/06/10	665	33.39555019	$\uparrow$1	$\uparrow$7	6	5	11
+5	Sparks of Artificial General Intelligence: Early experiments with GPT-4	cs.CL	http://arxiv.org/abs/2303.12712v5	23/03/19-23/03/25	1280	31.16038063	$\downarrow$1	$\downarrow$2	-1	4	3
+6	Gemini: A Family of Highly Capable Multimodal Models	cs.CL	http://arxiv.org/abs/2312.11805v1	23/12/17-23/12/23	185	29.07140876				False	False
+7	BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models	cs.CV	http://arxiv.org/abs/2301.12597v3	23/01/29-23/02/04	1157	28.90663829	$\downarrow$1	$\downarrow$1	-	6	100
+8	Segment Anything	cs.CV	http://arxiv.org/abs/2304.02643v1	23/04/02-23/04/08	1545	28.19637728	$\downarrow$1	$\uparrow$2	3	7	10
+9	Mamba: Linear-Time Sequence Modeling with Selective State Spaces	cs.LG	http://arxiv.org/abs/2312.00752v1	23/11/26-23/12/02	75	25.14805346				False	False
+10	QLoRA: Efficient Finetuning of Quantized LLMs	cs.LG	http://arxiv.org/abs/2305.14314v1	23/05/21-23/05/27	467	24.77639157	$\uparrow$1	$\downarrow$1	-2	11	9
+11	Code Llama: Open Foundation Models for Code	cs.CL	http://arxiv.org/abs/2308.12950v3	23/08/20-23/08/26	334	22.95650044	-			100	False
+12	Adding Conditional Control to Text-to-Image Diffusion Models	cs.CV	http://arxiv.org/abs/2302.05543v3	23/02/05-23/02/11	1111	22.69545359	-	-		15	100
+13	PaLM 2 Technical Report	cs.CL	http://arxiv.org/abs/2305.10403v3	23/05/14-23/05/20	523	22.44711509	$\downarrow$5	$\downarrow$9	-4	8	4
+14	Direct Preference Optimization: Your Language Model is Secretly a Reward Model	cs.LG	http://arxiv.org/abs/2305.18290v2	23/05/28-23/06/03	350	22.16251402	$\uparrow$8	-		22	100
+15	Visual Instruction Tuning	cs.CV	http://arxiv.org/abs/2304.08485v2	23/04/16-23/04/22	724	22.00672316	$\downarrow$3	$\downarrow$8	-5	12	7
+16	PaLM-E: An Embodied Multimodal Language Model	cs.LG	http://arxiv.org/abs/2303.03378v1	23/03/05-23/03/11	578	21.5793383	$\downarrow$6	$\downarrow$11	-5	10	5
+17	Baichuan 2: Open Large-scale Language Models	cs.CL	http://arxiv.org/abs/2309.10305v2	23/09/17-23/09/23	147	20.68178444	$\uparrow$19			37	False
+18	The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only	cs.CL	http://arxiv.org/abs/2306.01116v1	23/05/28-23/06/03	298	20.6815557	$\downarrow$10	$\uparrow$9	19	9	29
+19	InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning	cs.CV	http://arxiv.org/abs/2305.06500v2	23/05/07-23/05/13	420	19.77507849	$\uparrow$1	$\uparrow$13	12	21	33
+20	The Rise and Potential of Large Language Model Based Agents: A Survey	cs.AI	http://arxiv.org/abs/2309.07864v3	23/09/10-23/09/16	170	19.65223866	$\uparrow$2			23	False
+21	Universal and Transferable Adversarial Attacks on Aligned Language Models	cs.CL	http://arxiv.org/abs/2307.15043v2	23/07/23-23/07/29	250	18.92845371	$\downarrow$9			13	False
+22	Tree of Thoughts: Deliberate Problem Solving with Large Language Models	cs.CL	http://arxiv.org/abs/2305.10601v2	23/05/14-23/05/20	441	18.89322694	$\downarrow$9	$\downarrow$10	-1	14	13
+23	Mixtral of Experts	cs.LG	http://arxiv.org/abs/2401.04088v1	24/01/07-24/01/13	52	18.33948372	-	-		False	False
+24	Mistral 7B	cs.CL	http://arxiv.org/abs/2310.06825v1	23/10/08-23/10/14	140	18.29514273				False	False
+25	Efficient Memory Management for Large Language Model Serving with PagedAttention	cs.LG	http://arxiv.org/abs/2309.06180v1	23/09/10-23/09/16	152	17.54282593	-			100	False
+26	RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control	cs.RO	http://arxiv.org/abs/2307.15818v1	23/07/23-23/07/29	224	17.40127222	$\downarrow$3			24	False
+27	MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models	cs.CV	http://arxiv.org/abs/2304.10592v2	23/04/16-23/04/22	580	17.3880834	$\downarrow$11	-	-	17	100
+28	A Survey of Large Language Models	cs.CL	http://arxiv.org/abs/2303.18223v13	23/03/26-23/04/01	797	16.65486548	$\downarrow$13	$\downarrow$21	-8	16	8
+29	Lost in the Middle: How Language Models Use Long Contexts	cs.CL	http://arxiv.org/abs/2307.03172v3	23/07/02-23/07/08	240	16.27098999	$\downarrow$10			20	False
+30	SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis	cs.CV	http://arxiv.org/abs/2307.01952v1	23/07/02-23/07/08	246	16.10990214	-			100	False
+31	Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models	cs.CL	http://arxiv.org/abs/2309.01219v2	23/09/03-23/09/09	116	16.07803448	$\downarrow$7			25	False
+32	mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality	cs.CL	http://arxiv.org/abs/2304.14178v1	23/04/23-23/04/29	300	15.88850661	$\downarrow$5	$\downarrow$1	4	28	32
+33	3D Gaussian Splatting for Real-Time Radiance Field Rendering	cs.GR	http://arxiv.org/abs/2308.04079v1	23/08/06-23/08/12	289	15.04297861	-			100	False
+34	Zephyr: Direct Distillation of LM Alignment	cs.LG	http://arxiv.org/abs/2310.16944v1	23/10/22-23/10/28	53	14.73239078				False	False
+35	Kosmos-2: Grounding Multimodal Large Language Models to the World	cs.CL	http://arxiv.org/abs/2306.14824v3	23/06/25-23/07/01	171	14.72729127	-	-		100	100
+36	MVDream: Multi-view Diffusion for 3D Generation	cs.CV	http://arxiv.org/abs/2308.16512v2	23/08/27-23/09/02	107	14.71112042	-	-		100	False
+37	Voyager: An Open-Ended Embodied Agent with Large Language Models	cs.AI	http://arxiv.org/abs/2305.16291v2	23/05/21-23/05/27	247	14.49076576	$\downarrow$19	$\downarrow$26	-7	19	12
+38	Wonder3D: Single Image to 3D using Cross-Domain Diffusion	cs.CV	http://arxiv.org/abs/2310.15008v3	23/10/22-23/10/28	49	13.51226351				False	False
+39	RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback	cs.CL	http://arxiv.org/abs/2309.00267v2	23/08/27-23/09/02	96	13.39857385	-			100	False
+40	WizardLM: Empowering Large Language Models to Follow Complex Instructions	cs.CL	http://arxiv.org/abs/2304.12244v2	23/04/23-23/04/29	310	13.33687742				34	100
