@@ -31,9 +31,14 @@ This repository contains the code of the ''quarterly'' NLLG Arxiv Reports. Each 
 ```
 
 #### January 2024
-```
- Chen, Yanran and Larionov, Daniil and Zhang, Ran and Leiter, Christoph and Belouadi, Jonas and Kostikova, Aida and Eger, Steffen, NLLG Quarterly arXiv Report 01/24: What are the most influential current AI Papers? (June 17, 2024). Available at SSRN: https://ssrn.com/abstract=4896347 or http://dx.doi.org/10.2139/ssrn.4896347 
-```
+```bibtex
+      @misc{chen2024nllgquarterlyarxivreport,
+      title={NLLG Quarterly arXiv Report 01/24: What are the most influential current AI Papers?}, 
+      author={Yanran Chen and Daniil Larionov and Ran Zhang and Christoph Leiter and Jonas Belouadi and Aida Kostikova and Steffen Eger},
+      year={2024},
+      doi = {http://dx.doi.org/10.2139/ssrn.4896347}
+      url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4896347} 
+}
 
 #### September 2024
 ```bibtex
