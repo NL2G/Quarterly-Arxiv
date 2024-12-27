@@ -1,6 +1,6 @@
 # [NLLG](https://nl2g.github.io/) Arxiv Reports
 
-This repository contains the code of the ''quaterly'' NLLG Arxiv Reports. Each report's code and data is stored in its respective folder.
+This repository contains the code of the ''quarterly'' NLLG Arxiv Reports. Each report's code and data is stored in its respective folder.
 
 ## Citations
 
